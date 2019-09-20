@@ -1,0 +1,72 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="routes.com" resolutions="1x" timestamp="1558230543816">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_customize.css" crc="185860243" ref="new-trip:create2:create:chat-room:map-interface:join-group"/>
+    <file name="new-trip.css" crc="3959659232" ref="new-trip"/>
+    <file name="create2.css" crc="4173315547" ref="create2"/>
+    <file name="create.css" crc="3967374213" ref="create"/>
+    <file name="index.css" crc="3893874465" ref="index"/>
+    <file name="chat-room.css" crc="4184401644" ref="chat-room"/>
+    <file name="map-interface.css" crc="273252405" ref="map-interface"/>
+    <file name="join-group.css" crc="4158791044" ref="join-group"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:create:join-group:create2:chat-room:map-interface:new-trip"/>
+    <file name="museutils.js" crc="3803043152" ref="index:create:join-group:create2:chat-room:map-interface:new-trip"/>
+    <file name="whatinput.js" crc="86476730" ref="index:create:join-group:create2:chat-room:map-interface:new-trip"/>
+    <file name="museconfig.js" crc="380897831" ref="index:create:join-group:create2:chat-room:map-interface:new-trip"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:create:join-group:create2:chat-room:map-interface:new-trip"/>
+    <file name="require.js" crc="4157109226" ref="index:create:join-group:create2:chat-room:map-interface:new-trip"/>
+  </folder>
+  <folder name="images">
+    <file name="spicy clouds-crop-u154.png" crc="4075143636" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plane w glow.png" crc="198438877" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="smooth cloud-crop-u260.png" crc="4168233130" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconfinder_home_126572.png" crc="262891830" seo="true" ref="create:join-group:create2:chat-room:map-interface:new-trip">
+      <caption webpage="join-group" alt=""/>
+      <caption webpage="map-interface" alt=""/>
+      <caption webpage="create2" alt=""/>
+      <caption webpage="chat-room" alt=""/>
+      <caption webpage="new-trip" alt=""/>
+      <caption webpage="create" alt=""/>
+    </file>
+    <file name="img_9288-crop-u1666.jpg" crc="3966133852" seo="true" ref="create">
+      <caption webpage="create" alt=""/>
+    </file>
+    <file name="img_0587-crop-u1669.jpg" crc="4000554262" seo="true" ref="create">
+      <caption webpage="create" alt=""/>
+    </file>
+    <file name="img_0933-crop-u1672.jpg" crc="295735317" seo="true" ref="create">
+      <caption webpage="create" alt=""/>
+    </file>
+    <file name="img_7971-crop-u1675.jpg" crc="3966787343" seo="true" ref="create">
+      <caption webpage="create" alt=""/>
+    </file>
+    <file name="untitled-1.png" crc="438681537" seo="true" ref="create">
+      <caption webpage="create" alt=""/>
+    </file>
+    <file name="pasted image 1600x1478-crop-u1586.jpg" crc="3834619531" seo="true" ref="create">
+      <caption webpage="create" alt=""/>
+    </file>
+    <file name="pasted image 538x392.jpg" crc="4193196525" seo="true" ref="create2:map-interface">
+      <caption webpage="map-interface" alt=""/>
+      <caption webpage="create2" alt=""/>
+    </file>
+    <file name="pasted image 694x544.jpg" crc="3890522330" seo="true" ref="chat-room">
+      <caption webpage="chat-room" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="63186584" seo="true" mt="1558230488169" redirect="true"/>
+  <file name="create.html" crc="17272922" seo="true" mt="1558230066190" redirect="true"/>
+  <file name="join-group.html" crc="506366502" seo="true" mt="1558209760635" redirect="true"/>
+  <file name="create2.html" crc="185522800" seo="true" mt="1558209358689" redirect="true"/>
+  <file name="chat-room.html" crc="4081823560" seo="true" mt="1558209647225" redirect="true"/>
+  <file name="map-interface.html" crc="4041065891" seo="true" mt="1558209738488" redirect="true"/>
+  <file name="new-trip.html" crc="175343300" seo="true" mt="1558208327521" redirect="true"/>
+</manifest>
